@@ -3,8 +3,11 @@
 [![](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb)
 
 **只需幾分鐘，即可在 NVIDIA GPU 上免費體驗 RAG 模型推論！**
-*請依照下方第 1～5 步驟操作，然後開啟這個 [**Colab**](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb)。*
-我的個人 [**Colab**](https://colab.research.google.com/drive/1Pgzs1T_Jlf5b5G9P1axBeD8u0Aunsteq)。*
+請依照下方第 1～5 步驟操作，然後開啟這個 [**Colab**](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb)。
+
+
+*我的個人 [**Colab**](https://colab.research.google.com/drive/1Pgzs1T_Jlf5b5G9P1axBeD8u0Aunsteq)。*
+
 ---
 
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/8a84417f-f600-4917-9e33-63bf770234e9" width="800">
